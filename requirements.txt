@@ -61,7 +61,7 @@ SpeechRecognition==3.8.1
 sqlparse==0.3.0
 stdlib-list==0.6.0
 tensorboard==1.15.0
-tensorflow==1.15.0
+tensorflow==2.3.1
 tensorflow-estimator==1.15.1
 toml==0.10.0
 tox==3.14.0
